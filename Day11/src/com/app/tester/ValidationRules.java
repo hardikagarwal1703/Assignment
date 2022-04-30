@@ -65,7 +65,7 @@ public class ValidationRules {
 				if((customerList.get(i).getEmail().equals(checkEmail)) && 
 						(customerList.get(i).getDob().compareTo(checkDOB)==0)) {
 					
-						throw new CustomerException("Duplicate Customer Entry!");	
+						throw new CustomerException("Duplicate Customer Entry Found!");	
 				}
 			}
 		}
