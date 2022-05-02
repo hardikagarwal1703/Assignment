@@ -24,7 +24,7 @@ class Q4_1{
 			else
 				System.out.println("Not Double..!!");
 		}
-		
+		System.out.println("Joy");
 		sc.close();
 	}
 }
