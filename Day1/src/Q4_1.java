@@ -25,8 +25,7 @@ class Q4_1{
 				System.out.println("Not Double..!!");
 		}
 		System.out.println("Hardik");
-		System.out.println("Udit");
-		System.out.println("Joy Goa Boy");
+		System.out.println("kamana");
 		sc.close();
 	}
 }
