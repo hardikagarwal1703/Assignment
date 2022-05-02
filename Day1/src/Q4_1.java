@@ -26,6 +26,7 @@ class Q4_1{
 		}
 		System.out.println("Hardik");
 		System.out.println("Udit");
+		System.out.println("Joy Goa Boy");
 		sc.close();
 	}
 }
