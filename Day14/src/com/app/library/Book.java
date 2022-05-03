@@ -20,6 +20,10 @@ public class Book {
 		this.quantity = quantity;
 	}
 
+	public void updateQuantity(int quantity) {
+		this.quantity += quantity;
+	}
+
 	@Override
 	public String toString() {
 		return "Book [title=" + title + ", category=" + category + ", price=" + price + ", publishDate=" + publishDate
