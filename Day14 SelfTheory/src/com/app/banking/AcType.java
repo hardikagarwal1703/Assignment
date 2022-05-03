@@ -1,5 +1,5 @@
 package com.app.banking;
 
 public enum AcType {
-	SAVINGS,CURRENT,SALARY;
+	SAVINGS,CURRENT,FD,DEMAT,LOAN;
 }
