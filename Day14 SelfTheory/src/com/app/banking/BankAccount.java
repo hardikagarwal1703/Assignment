@@ -38,7 +38,9 @@ public class BankAccount {
 	//here HM<Integer,BankAccount>
 
 	//if we would have added composite primary key then 
-	//then, HM<AccountPK,BankAccount>
+	//then, 
+
+	// HM<AccountPK,BankAccount>
 
 	public void deposit(double amount) {
 		this.balance += amount;
